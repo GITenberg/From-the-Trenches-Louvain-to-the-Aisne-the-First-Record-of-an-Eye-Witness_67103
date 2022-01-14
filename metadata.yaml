@@ -1,11 +1,16 @@
 _repo: From-the-Trenches-Louvain-to-the-Aisne-the-First-Record-of-an-Eye-Witness_67103
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67103-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Geoffrey Winthrop
     gutenberg_agent_id: '54117'
     url: http://www.gutenberg.org/2009/agents/54117
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67103#From-the-Trenches-Louvain-to-the-Aisne-the-First-Record-of-an-Eye-Witness
 gutenberg_issued: '2022-01-04'
 identifiers:
   gutenberg: '67103'
